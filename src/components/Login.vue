@@ -51,7 +51,6 @@ export default {
         userID: "200007",
         txtPass: "123456"
       };
-
         axios
           .post(
             url,
