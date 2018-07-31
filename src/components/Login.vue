@@ -47,7 +47,6 @@ export default {
       //http://192.168.108.75:8080/ISCPayManagement/authenticate.do
       //http://192.168.108.75:8080/ISCPayManagement/authenticate.do;
       var url = "api/authenticate.do";
-
       let data = {
         userID: "200007",
         txtPass: "123456"
